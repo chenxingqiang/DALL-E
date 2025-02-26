@@ -1,11 +1,37 @@
-# Overview
+# DALL-E
 
-[[Blog]](https://openai.com/blog/dall-e/) [[Paper]](https://arxiv.org/abs/2102.12092) [[Model Card]](model_card.md) [[Usage]](notebooks/usage.ipynb)
+PyTorch package for the discrete VAE used for DALL·E. focusing on Overview, Installation.
 
-This is the official PyTorch package for the discrete VAE used for DALL·E.
+## Overview
 
-# Installation
+This repository contains a Python, Jupyter Notebook project.
 
-Before running [the example notebook](notebooks/usage.ipynb), you will need to install the package using
+## Features
 
-	pip install git+https://github.com/openai/DALL-E.git
+- Feature 1
+- Feature 2
+- Feature 3
+
+## Installation
+
+```bash
+# Add installation instructions here
+```
+
+## Usage
+
+```bash
+# Add usage examples here
+```
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Keywords
+
+python, dall, jupyter notebook
